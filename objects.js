@@ -5,12 +5,10 @@
 
 // person.favSongs = [`I Really Want to Stay at Your House`, `Rebel Yell`, `Around the World`]
 // console.log(person.favSongs)
-
 // console.log(person.name)
 // console.log(person.age)
-// console.log(person.occupation)
-// console.log(person.cyberware)
-// console.log(person.name, person.age, person.occupation, person.cyberware)
+
+
 
 // let offer = "none"
 // let time = 1200;
@@ -108,3 +106,34 @@
 
 // console.log(pet.eat())
 // console.log(pet.drink())
+
+
+// Activity 3:
+
+// let = "foodOrdered"
+// let = "drinkOrdered"
+
+// const coffeeShop = {
+//     branch: `Chester`,
+//     drinkPrices: [`Cappucciono £2.50`,
+//         `Latte £2.50`,
+//         `Filter coffee £2.00`,
+//         `Tea £2.50`,
+//         `Hot Chocolate £3.00`,
+//     ],
+//     foodPrices: [`Muffin £2.00`,
+//         `Croissant £1.50`,
+//         `Toastie £3.00`,
+//     ],
+
+//     drinkOrdered(){
+//     return `Test ${this.drinkPrices}`;
+//    },
+
+//    foodOrdered(){
+//     return `Test ${this.foodPrices}`;
+//    }   
+// };
+
+// console.log(coffeeShop.drinkOrdered())
+// console.log(coffeeShop.foodOrdered())

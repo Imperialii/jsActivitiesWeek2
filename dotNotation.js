@@ -11,7 +11,8 @@
 
 
 
-//grid challenge
+//Activity 1:
+
 //console.log("   |   |   \n   |   |   \n   |   |   \n ----------")
 
 //for (let i = 0;; i++) {
@@ -19,36 +20,3 @@
 //   if (i > 1)
 //       break;
 //}
-
-//Afternoon
-//Activity 1
-
-//let named = 'John Smith';
-//let age ='32';
-//let favColour ='blue';
-
-//console.log(`Hello, my name is ${named}. I am ${age} years old and my favourite colour is ${favColour}.`);
-
-//named = 'David Martinez';
-//age = '18';
-//favColour = 'Yellow';
-
-//console.log (`I'm ${age} years old, I like the colour ${favColour}, and I'm called ${named}.`);
-
-//Activity 2
-
- let Breakfast = 'Toast';
- let Lunch = 'Pasta';
- let Dinner = 'Something with fish idk';
-
-console.log (`Breakfast: ${Breakfast}`);
-console.log (`Lunch: ${Lunch}`);
-console.log (`Dinner: ${Dinner}`);
-
-Breakfast = 'Toast again';
-Lunch = 'Pasta again, diet sorry';
-Dinner = 'Not sure';
-
-console.log (`Breakfast: ${Breakfast}`);
-console.log (`Lunch: ${Lunch}`);
-console.log (`Dinner: ${Dinner}`);

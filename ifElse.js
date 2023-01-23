@@ -49,11 +49,11 @@
 
 // Activity 3
 
-//let password = "apples"
-let password = "eighties"
+// //let password = "apples"
+// let password = "eighties"
 
-switch (true) {
-    case password >= 8:
-        console.log (`${password}`);
-        break;
-}
+// switch (true) {
+//     case password >= 8:
+//         console.log (`${password}`);
+//         break;
+// }

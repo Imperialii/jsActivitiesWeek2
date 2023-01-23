@@ -13,28 +13,30 @@
 
 //console.log (`I'm ${age} years old, I like the colour ${favColour}, and I'm called ${named}.`);
 
-//Activity 2
+// Activity 2
 
-let Breakfast = 'Toast';
-let Lunch = 'Pasta';
-let Dinner = 'Something with fish idk';
+// let Breakfast = 'Toast';
+// let Lunch = 'Pasta';
+// let Dinner = 'Something with fish idk';
 
-console.log (`Breakfast: ${Breakfast}`);
-console.log (`Lunch: ${Lunch}`);
-console.log (`Dinner: ${Dinner}`);
+// console.log (`Breakfast: ${Breakfast}`);
+// console.log (`Lunch: ${Lunch}`);
+// console.log (`Dinner: ${Dinner}`);
 
-Breakfast = 'Toast again';
-Lunch = 'Pasta again, diet sorry';
-Dinner = 'Not sure';
+// Breakfast = 'Toast again';
+// Lunch = 'Pasta again, diet sorry';
+// Dinner = 'Not sure';
 
-console.log (`Breakfast: ${Breakfast}`);
-console.log (`Lunch: ${Lunch}`);
-console.log (`Dinner: ${Dinner}`);
+// console.log (`Breakfast: ${Breakfast}`);
+// console.log (`Lunch: ${Lunch}`);
+// console.log (`Dinner: ${Dinner}`);
 
-const todaysDate =  new Date().getTime();
-const birthday =  new Date("19-Jun-2023").getTime();
-let timeUntilBDay = birthday - todaysDate;
-console.log ${ `Math.floor( timeUntilBDay/( 1000) } seconds until bbirthjday )
-console.log ${ `Math.floor( timeUntilBDay/( 1000) } * 60} minutes until birthday )
-console.log ${ `Math.floor( timeUntilBDay/( 1000) } * 60 * 60  hours until birthday )
-console.log ${ `Math.floor( timeUntilBDay/( 1000) } * 60 * 60 * 24} days until birthday)
+// Activity 3
+
+// const todaysDate =  new Date().getTime();
+// const birthday =  new Date().getTime();
+// let timeUntilBDay = birthday - todaysDate;
+// console.log ${ `Math.floor( timeUntilBDay/( 1000) } seconds until bbirthjday )
+// console.log ${ `Math.floor( timeUntilBDay/( 1000) } * 60} minutes until birthday )
+// console.log ${ `Math.floor( timeUntilBDay/( 1000) } * 60 * 60  hours until birthday )
+// console.log ${ `Math.floor( timeUntilBDay/( 1000) } * 60 * 60 * 24} days until birthday)
